@@ -1,8 +1,8 @@
-# Unmasking a Chatbot: Who’s Really Talking?
+# “Generate...Summarize...Create”: Why do your AI-assistants behave the way they do?
 
-This project is a simple web-based demonstration designed to illustrate how different underlying "personas" or "system prompts" can dramatically alter a chatbot's responses, even when given the same initial query. It highlights the hidden instructions that shape AI behavior.
+This is an active project for the Interdisciplinary Project I course, developed by Mohsen Nejad, Jacob Solaña, Isabella Anderson, and Luke Schumacher.
 
-It is a work in progress! Please do not attempt to copy it; you can always collaborate with me on it. 
+Our goal is to create an interactive platform that helps students understand how AI assistants behave the way they do: by unmasking the hidden system prompts and behavior patterns embedded in different AI agents.
 
 ---
 
